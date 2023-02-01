@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\pylon",
-    "\\sextant"
+    "\\sextant",
+    "\\sextant\\public",
+    "\\sextant\\src"
   ],
-  "SelectedNode": "\\sextant\\package.json",
+  "SelectedNode": "\\sextant\\src\\Exhibit.css",
   "PreviewInSolutionExplorer": false
 }
